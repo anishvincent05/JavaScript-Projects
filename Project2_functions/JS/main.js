@@ -1,5 +1,7 @@
 
 //function for returing time
 function t(){
-    document.getElementById('demo').innerHTML=Date();
+    var dateandtime =Date();// Assigning time
+    dateandtime +=" This is date and time" ;//Adding text to time
+    document.getElementById('demo').innerHTML=dateandtime; //passing datad to html element
 }
