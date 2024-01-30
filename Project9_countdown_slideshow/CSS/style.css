@@ -1,0 +1,9 @@
+/* Bring images to same position and hide image */
+.img {
+    position: absolute;
+    visibility: hidden;
+}
+/* change image visibility*/
+.active {
+    visibility: visible;
+}
