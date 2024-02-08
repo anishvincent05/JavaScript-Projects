@@ -1,6 +1,19 @@
 # JavaScript-Projects
-## **Introduction**
+_These are some small projects i made using JavaScript_
+## **Projects**
+*Pizza Menu
+*Tic Tac Toe Game
+*Calculator
+
+## **Pizza Menu**
+_This project is a menu used to order pizza with a various selection of toppings._
+
+## **Tic Tac Toe**
+_The classic game of tic tac toe._
+
+## **Calculator**
+_A basic 4 function calculator._
 
 
-_Welcome to the JavaScript projects.This project is based on how to use JavaScript in web page._
+
 
